@@ -1,3 +1,1 @@
-# AI
-
-pytorch Deep Learning
+Machine Learning and Deep Learning related projects.
